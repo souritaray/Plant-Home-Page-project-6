@@ -1,5 +1,6 @@
 
-# Plant Home Page  ![Link](https://img.shields.io/badge/Technology%20Used%3A-HTML%2FCSS-brightgreen)
+# Plant Home Page 
+![Link](https://img.shields.io/badge/Technology%20Used%3A-HTML%2FCSS-brightgreen)
 
 This is a simple web page design made using HTML and CSS only. Please check it out. 
 ***
@@ -21,7 +22,8 @@ In this project I have got hands on experience on
 ## Time required to complete the project
 
 Approximately 2.5 to 3 hours.
-
+##Live Link
+[Plant Home Page](https://plant-homepage-souritaray.netlify.app/)
 
 
 ## Contact me on:
