@@ -22,7 +22,9 @@ In this project I have got hands on experience on
 ## Time required to complete the project
 
 Approximately 2.5 to 3 hours.
-##Live Link
+
+## Live Link
+
 [Plant Home Page](https://plant-homepage-souritaray.netlify.app/)
 
 
